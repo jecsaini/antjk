@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-me="Hello World Project" default="info">
+<project name="Hello World Project" default="info">
 
 <target name="info">
 
